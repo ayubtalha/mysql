@@ -1,0 +1,27 @@
+-- create table users(
+--     email VARCHAR(255) PRIMARY KEY,
+--     created_at timestamp default now()
+-- )
+-- =======
+-- show TABLES
+-- =======
+-- INSERT INTO users (email)
+-- VALUES('Katie34@yahoo.com'),
+--     ('Tunde@gmail.com');
+-- =======
+-- select *
+-- from users
+-- create table users(
+--     email VARCHAR(255) PRIMARY KEY,
+--     created_at timestamp default now()
+-- )
+-- =======
+-- show TABLES
+-- =======
+-- INSERT INTO users (email)
+-- VALUES('Katie34@yahoo.com'),
+--     ('Tunde@gmail.com');
+-- =======
+select *
+from users -- =======
+    -- DELETE from users
